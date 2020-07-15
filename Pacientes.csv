@@ -1,0 +1,101 @@
+﻿ID;NUM_TEL;NOME;MORADA;PROB_SAUDE
+1;910654517;Maria Teresa Barbosa;Rua Teixeira de Pascoais nº4, Braga;Rinite
+2;911011485;Maria Teresa Fonseca;Rua Dom Afonso nº4, Aveiro;Diabetes
+3;967672312;Joaquim Silva;Rua Frei Alberto Viera nº1, Bragança;Diabetes
+4;948481888;Helder Matos;Rua Teixeira de Pascoais nº5, Braga;RC alto
+5;933986661;Helder Silva;Calçada Marquês de Abrantes nº5, Lisboa;Rinite
+6;931081276;Joaquim Rodrigues;Rua Bartolomeu Fonseca nº1, Lisboa;Ansiedade
+7;938287192;Joaquim Barbosa;Calçada Marquês de Abrantes nº1, Lisboa;Depressão
+8;956222050;Tiago Silva;Calçada Marquês de Abrantes nº10, Lisboa;Ansiedade
+9;926371475;Joaquim Alves;Rua Frei Alberto Viera nº1, Bragança;Asma
+10;957989279;Luís Barros;Rua de Baixo nº8, Braga;Esclerose Múltipla
+11;932520162;João Santos;Rua Frei Alberto Viera nº7, Bragança;Anemia
+12;963509197;Marco Barros;Rua Dom Afonso nº9, Aveiro;RC baixo
+13;969761035;Luís Alves;Rua Teixeira de Pascoais nº8, Braga;RC alto
+14;958220145;João Gomes;Rua Dom Afonso nº7, Aveiro;Dermatite
+15;911349005;Ana Barros;Rua Bartolomeu Fonseca nº3, Lisboa;Rinite
+16;936176822;Tiago Barros;Rua Augusta nº10, Lisboa;RC baixo
+17;963162681;Beatriz Gomes;Rua Ferreira Lapa nº6, Guarda;RC alto
+18;952366043;Marco Barbosa;Avenida Central nº9, Guimarães;Ansiedade
+19;919916548;Marco Barbosa;Rua Bartolomeu Fonseca nº9, Lisboa;Diabetes
+20;959523713;Pedro Vasconcelos;Praceta Emanuel Cardoso nº0, Porto;Hipertensão
+21;933996060;Joaquim Santos;Rua Bartolomeu Fonseca nº1, Lisboa;Diabetes
+22;948801905;Pedro Barros;Rua Frei Alberto Viera nº0, Bragança;Asma
+23;952165862;Tiago Fonseca;Rua Frei Alberto Viera nº10, Bragança;Osteoporose
+24;943395434;Ana Fonseca;Praceta Emanuel Cardoso nº3, Porto;Obesidade
+25;939309753;Tiago Matos;Rua Teixeira de Pascoais nº10, Braga;Diabetes
+26;943599653;João Barbosa;Rua Teixeira de Pascoais nº7, Braga;Hipertensão
+27;946322035;Joaquim Matos;Rua Augusta nº1, Lisboa;Asma
+28;961045104;Luís Rodrigues;Praceta Emanuel Cardoso nº8, Porto;Anemia
+29;932281796;Pedro Santos;Praceta Emanuel Cardoso nº0, Porto;RC baixo
+30;918340866;Helder Santos;Calçada Marquês de Abrantes nº5, Lisboa;Osteoporose
+31;935485314;Beatriz Barros;Avenida Central nº6, Guimarães;Hipertensão
+32;922632777;Marco Fonseca;Avenida Central nº9, Guimarães;Diabetes
+33;932719806;Beatriz Gomes;Praceta Emanuel Cardoso nº6, Porto;Rinite
+34;968395225;Ana Fonseca;Praceta Emanuel Cardoso nº3, Porto;Diabetes
+35;943220271;Maria Teresa Rodrigues;Praceta Emanuel Cardoso nº4, Porto;Obesidade
+36;918788173;Sara Barbosa;Rua Teixeira de Pascoais nº2, Braga;Osteoporose
+37;915610082;João Barros;Calçada Marquês de Abrantes nº7, Lisboa;Doença Celíaca
+38;920111167;Sara Rodrigues;Rua Bartolomeu Fonseca nº2, Lisboa;Esclerose Múltipla
+39;932557782;Ana Rodrigues;Praceta Emanuel Cardoso nº3, Porto;Asma
+40;916882162;Tiago Barbosa;Rua Bartolomeu Fonseca nº10, Lisboa;Dermatite
+41;963145444;João Barros;Calçada Marquês de Abrantes nº7, Lisboa;Osteoporose
+42;915604382;Pedro Barbosa;Rua Ferreira Lapa nº0, Guarda;Depressão
+43;927192451;Pedro Silva;Rua Teixeira de Pascoais nº0, Braga;Depressão
+44;928980707;Joaquim Fonseca;Rua Augusta nº1, Lisboa;Doença Celíaca
+45;926421019;Ana Matos;Praceta Emanuel Cardoso nº3, Porto;Depressão
+46;965660144;Beatriz Matos;Rua Augusta nº6, Lisboa;Asma
+47;967755721;Beatriz Matos;Avenida Central nº6, Guimarães;Asma
+48;922988293;Ana Barbosa;Rua de Baixo nº3, Braga;Dermatite
+49;937298959;João Fonseca;Rua Bartolomeu Fonseca nº7, Lisboa;Asma
+50;914156110;Marco Fonseca;Rua Bartolomeu Fonseca nº9, Lisboa;Esclerose Múltipla
+51;934011409;Tiago Fonseca;Rua Frei Alberto Viera nº10, Bragança;Asma
+52;953484033;Beatriz Alves;Rua Dom Afonso nº6, Aveiro;Esclerose Múltipla
+53;936192383;Beatriz Rodrigues;Praceta Emanuel Cardoso nº6, Porto;Hipertensão
+54;917947712;Ana Fonseca;Rua Bartolomeu Fonseca nº3, Lisboa;Rinite
+55;961044493;Helder Alves;Rua Frei Alberto Viera nº5, Bragança;Hipertensão
+56;929184480;Pedro Barbosa;Rua Frei Alberto Viera nº0, Bragança;Anemia
+57;925406311;Marco Santos;Avenida Central nº9, Guimarães;Doença Celíaca
+58;915755208;Joaquim Alves;Rua Dom Afonso nº1, Aveiro;Obesidade
+59;914345213;Maria Teresa Santos;Rua Frei Alberto Viera nº4, Bragança;Asma
+60;965394671;Luís Gomes;Rua Bartolomeu Fonseca nº8, Lisboa;Diabetes
+61;926637053;Maria Teresa Alves;Rua Frei Alberto Viera nº4, Bragança;Doença Celíaca
+62;928881046;Beatriz Silva;Rua Frei Alberto Viera nº6, Bragança;RC alto
+63;921032106;Tiago Barbosa;Avenida Central nº10, Guimarães;Anemia
+64;922364242;Luís Rodrigues;Rua Ferreira Lapa nº8, Guarda;RC alto
+65;967920935;Luís Silva;Rua Augusta nº8, Lisboa;Esclerose Múltipla
+66;941614941;Tiago Rodrigues;Rua Dom Afonso nº10, Aveiro;Obesidade
+67;941005659;Pedro Santos;Rua Ferreira Lapa nº0, Guarda;Hipertensão
+68;944901178;Joaquim Barbosa;Calçada Marquês de Abrantes nº1, Lisboa;Diabetes
+69;942844203;Marco Alves;Rua de Baixo nº9, Braga;Rinite
+70;956273502;Tiago Alves;Rua Frei Alberto Viera nº10, Bragança;Obesidade
+71;918876070;Luís Matos;Calçada Marquês de Abrantes nº8, Lisboa;Anemia
+72;924531134;Maria Teresa Matos;Rua Frei Alberto Viera nº4, Bragança;Doença Celíaca
+73;930018294;Marco Gomes;Rua Teixeira de Pascoais nº9, Braga;Hipertensão
+74;917899611;Ana Silva;Rua Teixeira de Pascoais nº3, Braga;Depressão
+75;924727025;Pedro Barros;Calçada Marquês de Abrantes nº0, Lisboa;Asma
+76;915569680;Beatriz Barbosa;Rua Dom Afonso nº6, Aveiro;Esclerose Múltipla
+77;943757846;Pedro Silva;Rua Bartolomeu Fonseca nº0, Lisboa;Doença Celíaca
+78;914619462;Pedro Rodrigues;Rua Dom Afonso nº0, Aveiro;Diabetes
+79;910883935;Sara Rodrigues;Calçada Marquês de Abrantes nº2, Lisboa;RC alto
+80;953637132;Sara Barbosa;Praceta Emanuel Cardoso nº2, Porto;Esclerose Múltipla
+81;953434933;Maria Teresa Vasconcelos;Rua Dom Afonso nº4, Aveiro;RC baixo
+82;943166725;Pedro Gomes;Calçada Marquês de Abrantes nº0, Lisboa;Esclerose Múltipla
+83;926011955;Luís Silva;Rua Frei Alberto Viera nº8, Bragança;Asma
+84;960129584;Joaquim Rodrigues;Rua Ferreira Lapa nº1, Guarda;Obesidade
+85;938870685;Luís Silva;Rua Teixeira de Pascoais nº8, Braga;Anemia
+86;910237449;Pedro Barbosa;Rua de Baixo nº0, Braga;Rinite
+87;949076963;Ana Silva;Rua de Baixo nº3, Braga;RC alto
+88;955790141;Sara Gomes;Praceta Emanuel Cardoso nº2, Porto;Anemia
+89;959319286;Joaquim Fonseca;Rua Dom Afonso nº1, Aveiro;Diabetes
+90;935638566;João Barbosa;Rua Frei Alberto Viera nº7, Bragança;Hipertensão
+91;955974302;Helder Matos;Rua Frei Alberto Viera nº5, Bragança;Obesidade
+92;944107199;Sara Alves;Praceta Emanuel Cardoso nº2, Porto;Dermatite
+93;920901005;Sara Matos;Avenida Central nº2, Guimarães;Doença Celíaca
+94;921308906;Pedro Vasconcelos;Praceta Emanuel Cardoso nº0, Porto;Dermatite
+95;929736643;Maria Teresa Matos;Avenida Central nº4, Guimarães;Doença Celíaca
+96;967648206;Pedro Santos;Rua Dom Afonso nº0, Aveiro;RC baixo
+97;941040544;Luís Vasconcelos;Rua Frei Alberto Viera nº8, Bragança;Esclerose Múltipla
+98;936669772;Maria Teresa Barros;Rua Bartolomeu Fonseca nº4, Lisboa;Dermatite
+99;945370646;Helder Silva;Rua Teixeira de Pascoais nº5, Braga;Osteoporose
+100;954901093;Tiago Gomes;Rua Teixeira de Pascoais nº10, Braga;Osteoporose
